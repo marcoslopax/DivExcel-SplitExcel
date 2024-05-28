@@ -1,0 +1,5 @@
+{
+    "input_folder": "input/path",          /* The path to the folder where input files are stored / O caminho para a pasta onde os arquivos de entrada são armazenados */
+    "output_folder": "output/path",        /* The path to the folder where output files will be saved / O caminho para a pasta onde os arquivos de saída serão salvos */
+    "max_file_size_mb": 15                 /* The maximum size of each divided file in megabytes / O tamanho máximo de cada arquivo dividido em megabytes */
+}
